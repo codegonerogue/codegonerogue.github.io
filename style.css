@@ -8,6 +8,7 @@ html{
 p{
     font-family: 'Poiret One';
     text-align:center;
+    word-wrap: normal;
 }
 #title{
     font-family:'Comfortaa';
