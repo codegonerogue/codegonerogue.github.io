@@ -13,12 +13,12 @@ p{
 #title{
     font-family:'Comfortaa';
     text-align:center;
-    width: 800px;
 }
 #intro-intro{
     font-family:'Comfortaa';
     text-align:center;
 }
 .boxed{
-    width: 200px;
+    width: 800px;
+    text-align:center;
 }
