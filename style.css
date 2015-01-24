@@ -1,11 +1,15 @@
-html { 
+html{ 
     background-color:#19A3FF; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
 }
-p {
+p{
     font-family: 'Comfortaa';
     text-align:center;
+}
+#website_title{
+    font-family: 'Poiret One';
+    text-aligh:center;
 }
