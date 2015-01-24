@@ -17,3 +17,6 @@ p{
     font-family:'Comfortaa';
     text-align:center;
 }
+.boxed {
+  border: 1px solid green ;
+}
