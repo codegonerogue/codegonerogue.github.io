@@ -1,7 +1,10 @@
 html { 
-  background-color:#2E8AE6; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+    background-color:#19A3FF; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+p {
+    font-family: 'Poiret One'
 }
