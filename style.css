@@ -10,6 +10,7 @@ p{
     text-align:center;
     word-wrap: normal;
     font-size:1.1em;
+    color:white;
 }
 #title{
     font-family:'Comfortaa';
@@ -23,9 +24,10 @@ p{
     width: 600px;
     margin: 0 auto;
 }
-#footer{
+#footertext{
     font-family: 'Poiret One';
     text-align:center;
     word-wrap: normal;
     font-size:1.1em;
+    color:white;
 }
