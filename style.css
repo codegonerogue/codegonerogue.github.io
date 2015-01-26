@@ -33,3 +33,22 @@ p{
     font-size:1.1em;
     color:white;
 }
+/* unvisited link */
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: white;
+}
+
+/* mouse over link */
+a:hover {
+    color: gray;
+}
+
+/* selected link */
+a:active {
+    color: black;
+}
