@@ -15,7 +15,7 @@ p{
 #title{
     font-family:'Poiret One';
     text-align:center;
-    color:black;
+    color:white;
 }
 #intro-intro{
     font-family:'Poiret One';
@@ -56,6 +56,8 @@ a:active {
     background-color: #0033CC;
     height: 100px;
     width: 100%;
+    bottom: 0;
+    left: 0;
 }
 #Spotlight{
     font-family:'Poiret One';
