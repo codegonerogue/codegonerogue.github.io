@@ -54,6 +54,8 @@ a:active {
 }
 #footer{
     background-color: #0033CC;
+    height: 100px;
+    width: 100%;
 }
 #Spotlight{
     font-family:'Poiret One';
