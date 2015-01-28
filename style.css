@@ -66,6 +66,9 @@ a:active {
     text-align:center;
     color:white;
 }
-#spotlightframe{
+iframe {
+    width:485px; 
+    height:402px;
+    margin: 0 auto;
     display:block
 }
