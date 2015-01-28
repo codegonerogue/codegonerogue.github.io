@@ -5,11 +5,6 @@ html{
     -o-background-size: cover;
     background-size: cover;
 }
-#body {
-   min-height: 400px;
-   margin-bottom: 100px;
-   clear: both;
-}
 p{
     font-family: 'Poiret One';
     text-align:center;
