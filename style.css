@@ -20,7 +20,7 @@ p{
 #intro-intro{
     font-family:'Poiret One';
     text-align:center;
-    color:white;
+    color:black;
 }
 .boxed{
     width: 600px;
@@ -65,4 +65,7 @@ a:active {
     font-family:'Poiret One';
     text-align:center;
     color:white;
+}
+body{
+    min-height: 100px;
 }
