@@ -77,5 +77,5 @@ iframe {
     word-wrap: normal;
     font-size:1.1em;
     color:white;
-    float:left;
+    float:inherit;
 }
